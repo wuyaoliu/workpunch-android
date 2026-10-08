@@ -1,0 +1,30 @@
+# Local tools and generated files
+.gradle/
+.kotlin/
+.idea/
+**/build/
+local.properties
+*.iml
+captures/
+.DS_Store
+
+# Signing credentials and local configuration
+*.jks
+*.keystore
+*.p12
+*.pem
+keystore.properties
+signing.properties
+.env
+.env.*
+
+# Installation packages and personal data
+*.apk
+*.aab
+*.db
+*.db-shm
+*.db-wal
+*.log
+
+# This repository is Android-only
+iOS/

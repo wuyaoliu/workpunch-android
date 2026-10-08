@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">工时打卡</string>
+    <string name="clock_in">上班</string>
+    <string name="clock_out">下班</string>
+    <string name="widget_description">快速记录上班和下班时间</string>
+    <string name="widget_clock_in_empty">上班未打卡</string>
+    <string name="widget_clock_out_empty">下班未打卡</string>
+</resources>
