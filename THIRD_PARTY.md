@@ -6,6 +6,7 @@
 主要依赖包括：
 
 - AndroidX Activity、Compose、Material 3、Lifecycle、Navigation、Room、Core 与 AppCompat。
+- Compose Material 图标库，图标采用 Apache License 2.0；见 [素材说明](ASSETS.md)。
 - Kotlin Android / Compose 编译插件。
 - Kotlin Symbol Processing (KSP)。
 - JUnit 4（单元测试）。
